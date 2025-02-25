@@ -4,3 +4,7 @@ ruptures
 scikit-learn
 pandas
 tensorflow
+arviz
+pandas_datareader
+datetime
+wbdata
